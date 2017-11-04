@@ -36,13 +36,13 @@
   </build>
   <repositories>
     <repository>
-      <id>lwrap</id>
-      <url>https://raw.githubusercontent.com/SpigotASM/Repository/master/</url>
+      <id>central</id>
+      <url>https://raw.githubusercontent.com/cyberpwnn/Central/master/</url>
     </repository>
   </repositories>
   <distributionManagement>
     <repository>
-      <id>lwrap</id>
+      <id>central</id>
       <url>${github.maven.repository}</url>
     </repository>
   </distributionManagement>
