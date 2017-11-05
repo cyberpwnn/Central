@@ -37,8 +37,8 @@
 			<url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
 		</repository>
 		<repository>
-			<id>surge</id>
-			<url>https://raw.githubusercontent.com/cyberpwnn/Surge/master/repository/</url>
+			<id>central</id>
+			<url>https://raw.githubusercontent.com/cyberpwnn/Central/master/</url>
 		</repository>
 	</repositories>
 	<dependencies>
@@ -48,10 +48,20 @@
 			<version>1.12.2-R0.1-SNAPSHOT</version>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.cyberpwn</groupId>
+			<artifactId>JSON</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.cyberpwn</groupId>
+			<artifactId>GConcurrent</artifactId>
+			<version>1.0</version>
+		</dependency>
 	</dependencies>
 	<distributionManagement>
 		<repository>
-			<id>surge</id>
+			<id>central</id>
 			<url>${github.maven.repository}</url>
 		</repository>
 	</distributionManagement>
