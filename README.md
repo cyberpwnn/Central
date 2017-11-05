@@ -15,6 +15,7 @@ The central garbage disposal for all the crap I fabricate.
 | [GLang](https://github.com/cyberpwnn/GLang) | GLists, GMaps, GSets, etc | ```org.cyberpwn```:```GLang```:```1.0``` |
 | [GScript](https://github.com/cyberpwnn/GScript) | Scripting Stuff | ```org.cyberpwn```:```GScript```:```1.0``` |
 | [GBench](https://github.com/cyberpwnn/GBench) | Benchmark stuff | ```org.cyberpwn```:```GBench```:```1.0``` |
+| [GLog](https://github.com/cyberpwnn/GLog) | Logging, the lazy way | ```org.cyberpwn```:```GLog```:```1.0``` |
 | [GConcurrent](https://github.com/cyberpwnn/GConcurrent) | Threads, Pools, Tables | ```org.cyberpwn```:```GConcurrent```:```1.0``` |
 | [GMath](https://github.com/cyberpwnn/GMath) | Maths Stuff | ```org.cyberpwn```:```GMath```:```1.0``` |
 | [GFormat](https://github.com/cyberpwnn/GFormat) | Formatting F, etc | ```org.cyberpwn```:```GFormat```:```1.0``` |
