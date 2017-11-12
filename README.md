@@ -18,6 +18,8 @@ The central garbage disposal for all the crap I fabricate.
 | [GLog](https://github.com/cyberpwnn/GLog) | Logging, the lazy way | ```org.cyberpwn```:```GLog```:```1.0``` |
 | [GConcurrent](https://github.com/cyberpwnn/GConcurrent) | Threads, Pools, Tables | ```org.cyberpwn```:```GConcurrent```:```1.1``` |
 | [GMath](https://github.com/cyberpwnn/GMath) | Maths Stuff | ```org.cyberpwn```:```GMath```:```1.0``` |
+| [GNet](https://github.com/cyberpwnn/GNet) | Networking Stuff | ```org.cyberpwn```:```GNet```:```1.0``` |
+| [GArtifact](https://github.com/cyberpwnn/GArtifact) | Artifact Stuff | ```org.cyberpwn```:```GArtifact```:```1.0``` |
 | [GFormat](https://github.com/cyberpwnn/GFormat) | Formatting F, etc | ```org.cyberpwn```:```GFormat```:```1.1``` |
 | [GCell](https://github.com/cyberpwnn/GCell) | Excel, Sheets, CSV | ```org.cyberpwn```:```GCell```:```1.0``` |
 | [JSON](https://github.com/cyberpwnn/JSON) | It's json. And it isnt full of bloatware. | ```org.cyberpwn```:```JSON```:```1.0``` |
