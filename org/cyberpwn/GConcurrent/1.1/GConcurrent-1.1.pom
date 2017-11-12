@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cyberpwn</groupId>
-	<artifactId>GNet</artifactId>
-	<version>1.0</version>
-	<name>GNet</name>
-	<description>Networking stuff </description>
+	<artifactId>GConcurrent</artifactId>
+	<version>1.1</version>
+	<name>GConcurrent</name>
+	<description>concstuff</description>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
@@ -17,17 +17,32 @@
 			<url>https://raw.githubusercontent.com/cyberpwnn/Central/master/</url>
 		</repository>
 	</repositories>
-	<dependencies>
-		<dependency>
-			<groupId>org.cyberpwn</groupId>
-			<artifactId>GConcurrent</artifactId>
-			<version>1.1</version>
-		</dependency>
-	</dependencies>
 	<distributionManagement>
 		<repository>
 			<id>central</id>
 			<url>${github.maven.repository}</url>
 		</repository>
 	</distributionManagement>
+	<dependencies>
+		<dependency>
+			<groupId>org.cyberpwn</groupId>
+			<artifactId>GMath</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.cyberpwn</groupId>
+			<artifactId>GFormat</artifactId>
+			<version>1.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.cyberpwn</groupId>
+			<artifactId>GBench</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.cyberpwn</groupId>
+			<artifactId>GLang</artifactId>
+			<version>1.0</version>
+		</dependency>
+	</dependencies>
 </project>
