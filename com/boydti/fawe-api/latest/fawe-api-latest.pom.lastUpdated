@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Nov 18 10:30:43 EST 2017
+https\://raw.githubusercontent.com/cyberpwnn/Central/master/.error=
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1511019008791
+@default-fawe-http\://ci.athion.net/job/FastAsyncWorldEdit/ws/mvn/.lastUpdated=1511019043788
+http\://ci.athion.net/job/FastAsyncWorldEdit/ws/mvn/.error=Could not transfer artifact com.boydti\:fawe-api\:pom\:latest from/to fawe (http\://ci.athion.net/job/FastAsyncWorldEdit/ws/mvn/)\: C\:\\Users\\cyberpwn\\Documents\\development\\repository\\com\\boydti\\fawe-api\\latest\\aether-d62a3386-a7d0-42d0-82ba-06477ef177b5-fawe-api-latest.pom-in-progress (The system cannot find the file specified)
+https\://raw.githubusercontent.com/cyberpwnn/Central/master/.lastUpdated=1511019008976
