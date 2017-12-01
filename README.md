@@ -25,6 +25,6 @@ The central garbage disposal for all the crap I fabricate.
 | [JSON](https://github.com/cyberpwnn/JSON) | It's json. And it isnt full of bloatware. | ```org.cyberpwn```:```JSON```:```1.0``` |
 | [ReactLink](https://github.com/VolmitSoftware/ReactLink) | The library used for react clients and servers | ```org.cyberpwn```:```ReactLink```:```1.0``` |
 | [Terrene](https://github.com/VolmitSoftware/Terrene) | Worldly Things | ```org.cyberpwn```:```Terrene```:```1.0``` |
-| [Surge](https://github.com/cyberpwnn/Surge) | A quick, shade-able api for making bukkit plugins quickly | ```org.cyberpwn```:```Surge```:```2``` |
+| [Surge](https://github.com/cyberpwnn/Surge) | A quick, shade-able api for making bukkit plugins quickly | ```org.cyberpwn```:```Surge```:```2.3``` |
 | [LaunchWrapper](https://github.com/SpigotASM/LaunchWrapper) | Allows Spigot to apply class tweakers via ASM 5.2 | ```org.cyberpwn```:```LaunchWrapper```:```1.0``` |
 | [ClassTweaker](https://github.com/SpigotASM/ClassTweaker) | Used in plugins to modify server/plugin classes | ```org.cyberpwn```:```ClassTweaker```:```1.0``` | 
