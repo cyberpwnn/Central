@@ -3,14 +3,21 @@
   <groupId>org.cyberpwn</groupId>
   <artifactId>ReactLink</artifactId>
   <versioning>
-    <release>1.1.3</release>
+    <release>1.2.1</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
       <version>1.1.1</version>
       <version>1.1.2</version>
       <version>1.1.3</version>
+      <version>1.1.4</version>
+      <version>1.1.5</version>
+      <version>1.1.6</version>
+      <version>1.1.7</version>
+      <version>1.1.8</version>
+      <version>1.2</version>
+      <version>1.2.1</version>
     </versions>
-    <lastUpdated>20171210125649</lastUpdated>
+    <lastUpdated>20171213120105</lastUpdated>
   </versioning>
 </metadata>
