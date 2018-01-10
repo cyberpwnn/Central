@@ -1,6 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 01 09:32:06 EST 2017
+#Sat Jan 06 10:26:05 EST 2018
+https\://raw.githubusercontent.com/cyberpwnn/Central/master/.error=
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1515252365619
 https\://repo.maven.apache.org/maven2/.lastUpdated=1512138726738
+https\://raw.githubusercontent.com/cyberpwnn/Central/master/.lastUpdated=1515252365819
 https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1512138726550
 https\://oss.sonatype.org/content/repositories/snapshots/.error=
 https\://repo.maven.apache.org/maven2/.error=
