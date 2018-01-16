@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 09 19:33:58 EST 2018
+#Tue Jan 16 01:47:37 EST 2018
 spigot-api-1.12.2-R0.1-20171207.223349-59.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20171207.223349-59.pom>spigot-repo=
 spigot-api-1.12.2-R0.1-20171208.084050-60.jar>spigot-repo=
@@ -7,11 +7,14 @@ spigot-api-1.12.2-R0.1-20171217.004451-64.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20180108.051000-83.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20180108.051000-83.pom>spigot-repo=
 spigot-api-1.12.2-R0.1-20171127.223555-50.pom>spigot-repo=
+spigot-api-1.12.2-R0.1-20180112.001302-91.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20180105.021044-79.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20171120.003347-47.jar>spigot-repo=
-spigot-api-1.12.2-R0.1-20180109.235003-87.jar>spigot-repo=
+spigot-api-1.12.2-R0.1-20180110.014301-88.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20171120.003347-47.pom>spigot-repo=
+spigot-api-1.12.2-R0.1-20180110.014301-88.pom>spigot-repo=
 spigot-api-1.12.2-R0.1-20180105.021044-79-sources.jar>spigot-repo=
+spigot-api-1.12.2-R0.1-20180109.235003-87.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20171209.071049-61.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20171212.100056-62.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20171209.071049-61.pom>spigot-repo=
@@ -19,6 +22,9 @@ spigot-api-1.12.2-R0.1-20180103.215952-77.pom>spigot-repo=
 spigot-api-1.12.2-R0.1-20171201.060249-51.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20171208.084050-60.pom>spigot-repo=
 spigot-api-1.12.2-R0.1-20171217.004451-64.pom>spigot-repo=
+spigot-api-1.12.2-R0.1-20180115.231227-96.jar>spigot-repo=
+spigot-api-1.12.2-R0.1-20180112.001302-91.pom>spigot-repo=
+spigot-api-1.12.2-R0.1-20180115.231227-96.pom>spigot-repo=
 spigot-api-1.12.2-R0.1-20171127.223555-50.jar>spigot-repo=
 spigot-api-1.12.2-R0.1-20180105.021044-79.pom>spigot-repo=
 spigot-api-1.12.2-R0.1-20171122.060833-49.jar>spigot-repo=
