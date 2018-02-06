@@ -1,8 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:14:11 EST 2018
+#Sat Feb 03 08:40:13 EST 2018
 https\://raw.githubusercontent.com/cyberpwnn/Central/master/.error=
-https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
 https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1515258851389
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
+https\://raw.githubusercontent.com/PhantomAPI/Phantom/master/repository/.lastUpdated=1517665213567
 https\://repo.maven.apache.org/maven2/.lastUpdated=1515258851184
 https\://raw.githubusercontent.com/cyberpwnn/Central/master/.lastUpdated=1515258851588
+https\://raw.githubusercontent.com/PhantomAPI/Phantom/master/repository/.error=
 https\://repo.maven.apache.org/maven2/.error=
